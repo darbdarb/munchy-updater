@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.33122.133
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunchenManager", "MunchenAutoUpdater\MunchenManager.csproj", "{C89331E3-404C-4A1B-9B59-5C9CEE542F40}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debug", "Debug\Debug.csproj", "{CFA8B40A-DD82-4865-9A16-7E9A1EA639ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{C89331E3-404C-4A1B-9B59-5C9CEE542F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C89331E3-404C-4A1B-9B59-5C9CEE542F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C89331E3-404C-4A1B-9B59-5C9CEE542F40}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CFA8B40A-DD82-4865-9A16-7E9A1EA639ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CFA8B40A-DD82-4865-9A16-7E9A1EA639ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CFA8B40A-DD82-4865-9A16-7E9A1EA639ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CFA8B40A-DD82-4865-9A16-7E9A1EA639ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
